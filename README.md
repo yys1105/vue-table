@@ -1,5 +1,3 @@
-# jsplumb-demo
-
 ## Project setup
 ```
 yarn install

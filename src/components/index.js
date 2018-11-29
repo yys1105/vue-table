@@ -1,8 +1,8 @@
-// import Layout from './layout'
+import MTable from './m-table'
 
 export default [
-    // {
-    //     name: 'Layout',
-    //     instance: Layout
-    // }
+    {
+        name: 'MTable',
+        instance: MTable
+    }
 ]

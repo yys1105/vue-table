@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "lodash": "^4.17.11",
     "normalize.css": "^8.0.1",
     "storejs": "^1.0.20",
     "vue": "^2.5.17",
